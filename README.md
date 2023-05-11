@@ -1,4 +1,4 @@
-# Slot-machine
+# Arcade
 Beginners level project created on javascript with nodejs.
 
 How to play:
